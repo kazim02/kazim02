@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/kazim_web_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kazim_web_dev?logo=twitter&style=for-the-badge" alt="kazim_web_dev" /></a> </p>
 
-- 🔭 I’m currently working on [Nytt-Tech](https://nytt-tech.com/)
-
 - 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **ReactJS,NextJS,Typescript**
